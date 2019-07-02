@@ -1,1 +1,5 @@
-!itemku.py
+/__pycache__
+/build
+/dist
+config.py
+itemku.spec
